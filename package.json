@@ -1,0 +1,14 @@
+{
+  "name": "mc-discord-bot",
+  "version": "1.0.0",
+  "description": "Minecraft Server Status Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "mcstatus": "^0.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
